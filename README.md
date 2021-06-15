@@ -36,8 +36,11 @@ When I am idle on the site for more than a set time,then I am able to view comme
 
 ## Mock-Up
 
-The following animation demonstrates the application functionality:
+The following image shows a mock-up of the generated appearance and functionality:
+![TECHBLOG](./assets/Mockup.PNG)
 
 
 
 ## Github-Link
+
+https://github.com/swethareddyl/TECHBLOG.git

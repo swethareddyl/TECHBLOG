@@ -37,8 +37,8 @@ Post.init(
         sequelize,
         freezeTableName: true,
         underscored: true,
-        modelName: "post",
+         modelName: "post",
     }
 );
-
+// commit rtest
 module.exports = Post;
